@@ -1,4 +1,4 @@
-# Probability-Dice-Roll-Simulator
+# Dice Roll Probability Simulation
 
 A fun web app that lets you roll dice and see:
 - The exact dice combination rolled
